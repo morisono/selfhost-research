@@ -1,1 +1,7 @@
+# markdown to csv
 go install github.com/515hikaru/mdtable2csv@latest
+
+# csv to html
+csvtotable memo.d/output.csv memo.d/output.html
+
+# md2json
